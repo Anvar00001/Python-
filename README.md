@@ -1,2 +1,2 @@
 # Python 
-Darslarda o'rganganlar bo'yicha ma'lumot
+Python darslarda o'rganganlar bo'yicha ma'lumot
